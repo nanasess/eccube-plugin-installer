@@ -10,8 +10,7 @@
     }
   },
   "extra": {
-      "class": "Eccube\\Composer\\EccubePluginInstallerPlugin"
-    }
+    "class": "Eccube\\Composer\\EccubePluginInstallerPlugin"
   },
   "require": {
     "composer-plugin-api": "^1.0 || ^2.0"
