@@ -1,5 +1,5 @@
 {
-  "name": "ec-cube/plugin-installer",
+  "name": "nanasess/plugin-installer",
   "version": "2.0.x-dev",
   "type": "composer-plugin",
   "description": "EC-CUBE plugin installer.",
